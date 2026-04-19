@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sponixx ~ Osman </title>
+  <meta name="description" content="Kişisel portfolyo ve projeler.">
+  <link rel="stylesheet" href="./landing.css">
+</head>
+
+<body>
+
+  <div class="custom-cursor"></div>
+  <div class="custom-cursor-follower">
+    <svg class="blob-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+      <path id="blob-path" />
+    </svg>
+  </div>
+
+  <div id="intro-screen" class="intro-screen">
+    <div id="boot-sequence" class="boot-sequence retro-font">
+      <div id="boot-text"></div><span class="cursor">_</span>
+    </div>
+    <div class="intro-logo-container hidden" id="intro-logo-wrap">
+      <img src="./logo.png" alt="Sponixx Logo" class="intro-logo">
+    </div>
+  </div>
+
+  <div class="bg-glow"></div>
+
+  <header class="site-header">
+    <div class="container nav-container">
+      <div class="nav-brand">
+        <a href="#top"><img src="./logo.png" alt="Sponixx Logo" class="nav-logo"></a>
+      </div>
+      <nav class="nav-links">
+        <a href="#about" class="nav-link">About Me</a>
+        <a href="#experience" class="nav-link">Experıence</a>
+        <a href="#projects" class="nav-link">Projects</a>
+        <a href="#contact" class="nav-link">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section id="top" class="hero">
+      <div class="container">
+        <p class="eyebrow">Hi,I'm Osman</p>
+        <h1 class="hero-title retro-font" id="typing-title"></h1>
+        <p class="hero-subtitle">
+            I'm a computer engineer who loves to explore technology and build whatever I love.
+        <div class="hero-actions">
+          <a href="#projects" class="btn btn-primary retro-font">See My Works</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title retro-font">About Me</h2>
+        </div>
+        <div class="grid-2">
+          <div class="about-content">
+            <p>
+              Hi, I'm Osman. As a Computer Engineering undergraduate, I wear many hats.
+            </p>
+            <p>
+              Whether I am writing backend code in C# (.NET Framework), developing game mechanics for Roblox, or creating 3D models in Blender, I enjoy tackling complex problems. I am constantly building, experimenting with new technologies I learned, and expanding my toolset.
+            </p>
+          </div>
+          <div class="about-tech card terminal-card">
+            <div class="terminal-header">
+              <div class="terminal-dots">
+                <span class="dot dot-red"></span>
+                <span class="dot dot-yellow"></span>
+                <span class="dot dot-green"></span>
+              </div>
+              <span class="terminal-title">~/skills.sh</span>
+            </div>
+            <div class="terminal-body project-tech">
+              <span class="tech-tag">JavaScript </span>
+              <span class="tech-tag">HTML5 & CSS3</span>
+              <span class="tech-tag">C / C++ / C# </span>
+              <span class="tech-tag">Python / Lua</span>
+              <span class="tech-tag">3D Modelling(Blender)</span>
+              <span class="tech-tag">Git / GitHub</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="experience" class="experience">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title retro-font">Experience</h2>
+        </div>
+
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content card">
+              <div class="xp-header">
+                <div>
+                  <h3 class="xp-title">Full Stack Developer(Intern)</h3>
+                  <span class="xp-company">Datateam Information Technologies</span>
+                </div>
+                <span class="xp-date">06.2025-08.2025</span>
+              </div>
+              <p class="xp-desc">
+                They gradually taught me full-stack web development, and later I built 2-3 web applications requested by company using MongoDB for the database and React.js for the frontend.
+              </p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content card">
+              <div class="xp-header">
+                <div>
+                  <h3 class="xp-title">Computer Engineer</h3>
+                  <span class="xp-company">Solarge Energy Systems</span>
+                </div>
+                <span class="xp-date">2023-2024</span>
+              </div>
+              <p class="xp-desc">
+                  Building and maintaining the network system of the solar energy plant using dockers of the inverters and routers.Additionaly, I developed a website for this company to introduce the company to potential customers.
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="projects">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title retro-font">Projects</h2>
+        </div>
+        <div class="premium-projects">
+          <div class="premium-project-card">
+            <div class="project-bg-number retro-font">01</div>
+            <div class="project-content-wrapper">
+              <div class="project-info">
+                <h3 class="premium-project-title retro-font">Nixx Agent</h3>
+                <p class="premium-project-desc">An Agent which uses tools to manage your desktop and automate tasks.And help you to manage your project running your computer via voice channel(livekit).</p>
+                <div class="premium-project-tech">
+                  <span class="premium-tag">FastMCP</span>
+                  <span class="premium-tag">LiveKit~Agents</span>
+                </div>
+              </div>
+              <div class="project-action">
+                <a href="https://github.com/osmanerenq/N.I.X.X" class="premium-btn">Explore <span class="arrow">→</span></a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="contact-section">
+      <div class="container contact-wrap">
+        <h2 class="section-title retro-font" style="margin-bottom:2rem;">Contact Me</h2>
+        <p class="contact-text">
+          Is this a new project, a permanent one, or just a way to say hello? My inbox is always open.
+          Contact me and let's talk about how we can work together to create something amazing.
+        </p>
+        <div class="contact-links">
+          <a href="mailto:contactsponixx@gmail.com" class="contact-btn">Send Email</a>
+          <a href="https://github.com/osmanerenq" target="_blank" rel="noopener noreferrer"
+            class="contact-btn">GitHub</a>
+          <a href="https://www.linkedin.com/in/osman-eren-%C5%9Fahin-449037404/" target="_blank" rel="noopener noreferrer"
+            class="contact-btn">LinkedIn</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 Sponixx ~ Osman. All rights reserved.</p>
+      <p>This website is built with help of Gemini 3.1 Pro</p>
+    </div>
+  </footer>
+
+  <script src="./landing.js"></script>
+</body>
+
+</html>
