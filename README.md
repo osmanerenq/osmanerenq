@@ -7,14 +7,14 @@
 <a href="https://www.linkedin.com/in/osman-eren-%C5%9Fahin-449037404/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=D97706" alt="LinkedIn" /></a>
 <a href="https://github.com/osmanerenq"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=D97706" alt="Portfolio" /></a>
 
-<br/><br/>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=osmanerenq&color=D97706&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-### `> whoami`
+### `Who am I?`
 
 Hi, I'm **Osman**. A 3rd-year Computer Engineering undergraduate at Çankaya University who loves to build, experiment, and solve complex problems.
 
