@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:d97706,100:030303&height=220&section=header&text=Sponixx&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%203D%20Artist%20%7C%20Developer&descSize=18&descColor=000000&descAlignY=55" />
 
-<a href="https://osmanerenq.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=26&duration=2000&pause=500&color=D97706&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%3E_LOADING+THE+SPONIXX'S+SERVER...;%3E_LOADING+USER+PROFILE...;%3E_ACCESS+GRANTED.+WELCOME+Guest35346." alt="Boot Sequence" />
-</a>
-
 <br/>
 <a href="mailto:contactsponixx@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D97706" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/osman-eren-%C5%9Fahin-449037404/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=D97706" alt="LinkedIn" /></a>
