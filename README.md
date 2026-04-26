@@ -1,15 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:d97706,100:030303&height=220&section=header&text=Sponixx&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%203D%20Artist%20%7C%20Developer&descSize=18&descColor=000000&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:d97706,100:030303&height=220&section=header&text=Svolnix&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%203D%20Artist%20%7C%20Developer&descSize=18&descColor=000000&descAlignY=55" />
 
 <br/>
-<a href="mailto:contactsponixx@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D97706" alt="Email" /></a>
+<a href="mailto:osman@svolnix.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D97706" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/osman-eren-%C5%9Fahin-449037404/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=D97706" alt="LinkedIn" /></a>
-<a href="https://sponixx.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=D97706" alt="Portfolio" /></a>
+<a href="https://svolnix.com"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=D97706" alt="Portfolio" /></a>
 
 </div>
-
----
 
 ### `Who am I?`
 
